@@ -13,7 +13,7 @@ https://user-images.githubusercontent.com/66914500/148655158-d7e7a06e-c52e-4e0c-
 
 Necessário realizar a instalação das aplicações/frameworks abaixo:
 
-*- [Flutter](https://docs.flutter.dev/get-started/install*
+[Flutter](https://docs.flutter.dev/get-started/install*)
 
 ## 🚩 Bibliotecas Utilizadas no Projeto: 
 
